@@ -51,23 +51,23 @@ This project demonstrates **real-world use of AI/ML**, not rule-based scripting.
 Smart_Personal_Finance_AI/
 │
 ├── backend/
-│   ├── main.py               # FastAPI backend
-│   ├── requirements.txt      # Dependencies
-│   └── **init**.py
+│   ├── main.py               
+│   ├── requirements.txt      
+│   └── init.py
 │
 ├── frontend/
-│   └── app.py                # Streamlit UI
+│   └── app.py              
 │
 ├── ml_models/
-│   ├── ocr_model.py          # Bill OCR logic
-│   ├── expense_classifier.py # ML expense classifier
-│   ├── expense_forecast.py   # ML forecasting logic
-│   ├── train_classifier.py   # Train expense model
-│   ├── train_forecast.py     # Train forecast model
-│   ├── expense_classifier.pkl# Trained ML model
-│   ├── vectorizer.pkl        # NLP vectorizer
-│   ├── expense_forecast.pkl  # Forecast ML model
-│   └── **init**.py
+│   ├── ocr_model.py        
+│   ├── expense_classifier.py 
+│   ├── expense_forecast.py
+│   ├── train_classifier.py 
+│   ├── train_forecast.py  
+│   ├── expense_classifier.pkl
+│   ├── vectorizer.pkl   
+│   ├── expense_forecast.pkl 
+│   └── init.py
 │
 └── README.md
 
@@ -198,13 +198,7 @@ and should not be used for financial or legal decisions.
 ✔ Strong final-year / portfolio project
 ✔ Easy to extend with database or cloud
 
----
 
-
-
-```
-
----
 
 
 ```
