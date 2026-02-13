@@ -40,7 +40,7 @@ This project demonstrates **real-world use of AI/ML**, not rule-based scripting.
 
 ---
 
-## 📂 Project Structure
+
 
 
 
