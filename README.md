@@ -1,8 +1,3 @@
-
-
----
-
-```md
 # 💰 Smart Personal Finance & Expense Multi-Modal AI System
 
 An **AI-powered personal finance assistant** that helps users **extract expenses from bills**, **categorize spending**, and **forecast future expenses** using **Machine Learning** and **Multi-Modal AI** techniques.
@@ -44,6 +39,10 @@ This project demonstrates **real-world use of AI/ML**, not rule-based scripting.
 - 📦 Joblib – Model Persistence
 
 ---
+
+## 📂 Project Structure
+
+
 
 ## 📂 Project Structure
 
