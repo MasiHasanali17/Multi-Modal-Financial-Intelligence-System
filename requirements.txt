@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+easyocr
+torch
+scikit-learn
+pandas
+numpy
+joblib
+streamlit
+requests
