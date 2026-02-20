@@ -3,9 +3,9 @@ import requests
 
 st.set_page_config(page_title="Finance AI", layout="wide")
 
-st.title("💰 Smart Personal Finance AI")
+st.title(" Smart Personal Finance AI")
 
-tab1, tab2, tab3 = st.tabs(["📸 Bill OCR", "🧾 Expense Category", "📊 Forecast"])
+tab1, tab2, tab3 = st.tabs([" Bill OCR", " Expense Category", " Forecast"])
 
 with tab1:
     img = st.file_uploader("Upload Bill Image", type=["jpg","png"])
@@ -24,3 +24,4 @@ with tab3:
     if st.button("Predict Expense"):
         res = requests.post("http://localhost:8000/forecast", json={"month": month}).json()
         st.success(res)
+
